@@ -1,1 +1,2 @@
-console.log("hello");
+// index.js
+module.exports = require('@prisma/client')
